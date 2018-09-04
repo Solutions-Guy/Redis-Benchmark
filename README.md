@@ -13,7 +13,7 @@ Instacart, Slack, Hulu, etc)
 
 In the computer hardware industry, it is very important to not only validate compatibility of software on new hardware, 
 but to optimize performance. Since Redis is such an important database solution for key services that billions of users rely on everyday,
-many data/service providers really appreciate Redis benchmarks results.
+many data/service providers really appreciate Redis Benchmarks. In fact, VMware presents Redis Benchmarks every year in partnership with HPE.
 
 This repository has been created to reveal exactly how my team setup Redis, so other companies can configure their servers in a similar manner
 to compare against our Redis benchmak.
