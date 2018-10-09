@@ -11,8 +11,8 @@ See Wiki Page for Background and Results
 * Advanced Settings for Virtual Network
 3.	Redis Configuration
 * Load Generator
-** Configuration Files
-** Load Balancer Mapping
+  * Configuration Files
+  * Load Balancer Mapping
 * Redis Cluster
-    i.	Configuration Files
-    ii.	Memtier Benchmark Parameters
+  * Configuration Files
+  * Memtier Benchmark Parameters
