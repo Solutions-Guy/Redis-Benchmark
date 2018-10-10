@@ -1,4 +1,4 @@
-# NoSQL
+# Redis Benchmark
 
 See Wiki Page for Background and Results
 
